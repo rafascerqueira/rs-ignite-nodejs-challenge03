@@ -1,0 +1,7 @@
+# Folders
+node_modules/
+coverage/
+
+# Files
+package-*.json
+.env
